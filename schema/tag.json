@@ -1,0 +1,33 @@
+{
+    "tag": "mjml",
+    "attributes": {
+        "owa": "desktop",
+        "lang": "en",
+        "dir": "ltr"
+    },
+    "children": [
+        {
+            "tag": "mj-head",
+            "children": [
+                {
+                    "tag": "mj-attributes",
+                    "children": [
+                        {
+                            "tag": "mj-text",
+                            "attributes": {
+                                "padding": 0
+                            }
+                        },
+                        {
+                            "tag": "mj-class",
+                            "attributes": {
+                                "name": "blue",
+                                "color": "blue"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
